@@ -1,3 +1,3 @@
-# datasciencecoursera
-for coursera course
-datasets are needed to be downloaded from official site.
+# DataScienceUdacity
+For Udacity courses;
+Datasets are needed to be downloaded from official site
